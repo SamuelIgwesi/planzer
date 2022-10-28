@@ -6,7 +6,6 @@
 }
 body{
   font-family: Poppins, sans-serif;
- 
 }
 nav{
   width: 100%;
@@ -19,14 +18,11 @@ nav{
 }
 nav div{
   display: flex;
-  
-  
 } 
 
 .nav_second{
   width: 30vw;
   justify-content: space-between;
-  
 }
 .nav_third{
   justify-content: space-evenly;
@@ -72,7 +68,6 @@ nav a:hover{
 }
 .dropdown{
   position: relative;
-
 }
 .dropping{
   list-style: none;
@@ -187,7 +182,6 @@ nav a:hover{
   height: 130vh;
   background-color: white;
   margin-top: 500px;
- 
   position: relative;
   padding: 20px;
   padding-bottom: 60px;
@@ -304,7 +298,6 @@ text-align: center;
   padding-top: 10px;
   position: relative;
   z-index: -2;
- 
 }
 .fourth::before{
   content: "";
@@ -327,8 +320,6 @@ text-align: center;
   background-color:#F3F5FF;
   transform:skewY(180deg) ;
   z-index: -2;
-  
- 
 }
 .top-left{
   margin-top:700px;
@@ -351,8 +342,7 @@ display: inline-block;
   margin-bottom: 40px;
 }
 .fourth-flex p{
-  color: #7A7D9C
-  ;
+  color: #7A7D9C;
   display: inline-block;
   margin-bottom: 40px ;
 }
